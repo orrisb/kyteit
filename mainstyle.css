@@ -1,0 +1,55 @@
+A:link { color: #45454B }
+A:visited { color: #45454B }
+A:active { color: #45454B }
+A:hover { color: #D40106 } 
+
+em {
+	color: blue;
+}
+
+body { margin:10px; 
+       font-family:verdana,arial,sans-serif; font-size:18px; }
+h1   { margin:10px; margin-bottom:20px; font-size:30px;  }
+p    { margin:10px; margin-bottom:20px; }  
+
+p {
+	font-size: medium;
+	line-height: 22px;
+	text-align: ;
+}
+/*
+#profile {
+	width: 100px;
+	position: absolute;
+	z-index: 1;
+	left: 5%;
+	margin-left: -50px;
+	top: 2px;
+}
+
+#profile-image {
+	width: 100px;
+	height: 100px;
+	border-radius: 50px;
+	background: white;
+	overflow: hidden;
+}
+
+#profile-image img {
+	width: 100%;
+	height: auto;
+}
+*/
+
+td {font-family: arial, geneva, sans-serif; 
+	color: #000000;
+}
+
+.white1 {font-family: arial, geneva, sans-serif; font-size: 7.8pt; color: #ffffff}
+.white2 {font-family: arial, geneva, sans-serif; font-size: 8.8pt; color: #ffffff}
+
+.green2 {font-family: arial, geneva, sans-serif; font-size: 8.8pt; color: #A1BE19}
+
+.grey1 {font-family: arial, geneva, sans-serif; font-size: 7.8pt; color: #544D52}
+
+ 
